@@ -7,7 +7,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 import re
 
-file_path = ""
+file_path = "TweetRaw.csv"
 
 
 def print_hi(name):
